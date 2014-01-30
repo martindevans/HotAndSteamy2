@@ -1,0 +1,12 @@
+ConsoleTest/bin
+ConsoleTest/obj
+SteamChatLobby/bin
+SteamChatLobby/obj
+Steamworks
+Debug/
+Release/
+*.opensdf
+*.sdf
+*.suo
+*.cache
+*.cachefile

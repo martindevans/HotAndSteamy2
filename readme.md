@@ -2,6 +2,9 @@
 
 **To use HotAndSteamy you must be a Steamworks developer.**
 
+# Status
+HotAndSteamy was written a couple of years ago and is now basically defunct. [Steamworks.Net](https://github.com/rlabrecque/Steamworks.NET) is a better wrapper in every way!
+
 # Setup
 
 To build this you are going to need a copy of the Steamworks SDK (***version 1.24***). This is *not* included in the Git repository and never will be. Once you have your copy of Steamworks add *steam_api.lib* as an additional dependency in the linker:

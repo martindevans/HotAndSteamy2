@@ -1,6 +1,4 @@
-*HotAndSteamy* is a wrapper around Valve's Steamworks API for use with C# written with C++/CLI.
-
-**To use HotAndSteamy you must be a Steamworks developer.**
+*HotAndSteamy* is a wrapper around Valve's Steamworks API for use with C# written with C++/CLI. **To use HotAndSteamy you must be a Steamworks developer!** The required binaries to build and use this are distributed separately, by Valve, only to people with access to the Steamworks SDK.
 
 # Status
 HotAndSteamy was written a couple of years ago and is now basically defunct. **[Steamworks.Net](https://github.com/rlabrecque/Steamworks.NET) is a better wrapper in every way!**

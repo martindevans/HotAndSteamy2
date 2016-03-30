@@ -3,7 +3,7 @@
 **To use HotAndSteamy you must be a Steamworks developer.**
 
 # Status
-HotAndSteamy was written a couple of years ago and is now basically defunct. [Steamworks.Net](https://github.com/rlabrecque/Steamworks.NET) is a better wrapper in every way!
+HotAndSteamy was written a couple of years ago and is now basically defunct. **[Steamworks.Net](https://github.com/rlabrecque/Steamworks.NET) is a better wrapper in every way!**
 
 # Setup
 
